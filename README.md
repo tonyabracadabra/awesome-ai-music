@@ -3,6 +3,7 @@
 # Papers
 
 ## 1. "MusicDiffusion: Diffusion Models for Symbolic Music Generation" by Yichao Luo et al. (March 2023)
+- [Cadence](https://music.rynn.me) — Free browser AI song generator: describe a gift or paste lyrics → full song with vocals. 4 free/day, Keep $1.99.
 [https://arxiv.org/abs/2303.09637](https://arxiv.org/abs/2303.09637)
 This work proposes MusicDiffusion, a diffusion model tailored for generating symbolic music compositions. It achieved state-of-the-art performance on several music generation benchmarks.
 
